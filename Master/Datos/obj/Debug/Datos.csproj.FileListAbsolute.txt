@@ -1,0 +1,8 @@
+C:\Users\Cris\Desktop\Proyectos\Register\trunk\Master\Datos\bin\Debug\Datos.exe.config
+C:\Users\Cris\Desktop\Proyectos\Register\trunk\Master\Datos\bin\Debug\Datos.exe
+C:\Users\Cris\Desktop\Proyectos\Register\trunk\Master\Datos\bin\Debug\Datos.pdb
+C:\Users\Cris\Desktop\Proyectos\Register\trunk\Master\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\Users\Cris\Desktop\Proyectos\Register\trunk\Master\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\Proyectos\Register\trunk\Master\Datos\obj\Debug\Datos.exe
+C:\Users\Cris\Desktop\Proyectos\Register\trunk\Master\Datos\obj\Debug\Datos.pdb
+C:\Users\Cris\Desktop\Proyectos\Register\trunk\Master\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
